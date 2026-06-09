@@ -27,7 +27,7 @@ const Hero: React.FC = () => {
           <div className={`flex-1 text-center lg:text-right transition-all duration-1000 transform ${isVisible ? 'translate-y-0 opacity-100' : 'translate-y-10 opacity-0'}`}>
             <div className="inline-block px-4 py-1.5 mb-6 rounded-full bg-primary-50 dark:bg-primary-900/50 border border-primary-100 dark:border-primary-800">
               <span className="text-sm font-semibold text-primary-700 dark:text-primary-300">
-                خبرة أكثر من ١٠ سنوات في المجال المالي
+                خبرة أكثر من 3 سنوات في المجال المالي
               </span>
             </div>
             <h1 className="text-4xl lg:text-6xl font-extrabold tracking-tight text-slate-900 dark:text-white mb-6 leading-tight">
