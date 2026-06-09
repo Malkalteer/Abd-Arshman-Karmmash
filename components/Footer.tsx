@@ -119,7 +119,7 @@ const Footer: React.FC = () => {
             عبد الرحمن كرماش . جميع الحقوق محفوظة.© {new Date().getFullYear()} 
           </p>
           <div className="text-slate-400 text-xs">
-            تصميم وتطوير بواسطة <a href="#">AL-TEER</a>
+            تصميم وتطوير بواسطة <a href="https://wa.me/qr/SWKJI5B6RAOJA1" target="_blank" className="text-primary-600 dark:text-primary-400 hover:underline">AL-TEER</a>
           </div>
         </div>
       </div>
